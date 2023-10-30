@@ -2,7 +2,7 @@
 ## Description
 A professional portfolio highlighting my best work completed during the boot camp to help potential employers get a glimpse of my skills and ideas.
 ## Link 
-
+https://armishk.github.io/Portfolio/#Work
 
 
 ## Preview
